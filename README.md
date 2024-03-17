@@ -1,5 +1,4 @@
 
-
 ---
 
 # Set Game Solver using Classical Computer Vision
