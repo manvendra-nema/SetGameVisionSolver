@@ -5,6 +5,16 @@
 # Set Game Solver using Classical Computer Vision
 
 This repository provides a solution for automating the solving process of the popular card game Set using classical computer vision techniques.
+![image](https://github.com/manvendra-nema/SetGameVisionSolver/assets/53614640/7010174d-a2d4-4542-bc76-9084e057e3ae)
+
+## Description of Set Game:
+
+
+Set is a fast-paced and engaging card game that challenges players' pattern recognition and strategic thinking skills. The game consists of a deck of unique cards, each featuring variations in four attributes: shape (oval, squiggle, or diamond), color (red, green, or purple), number (one, two, or three), and shading (solid, striped, or outlined).
+
+In Set, players race to identify "sets" of three cards that satisfy a specific criterion: each attribute must be either all the same or all different across the set. For example, if one card in the set is green, another must also be green, and the third must be a different color. Players compete to spot these sets as quickly as possible, with each correct identification earning them points.
+
+The game offers a dynamic and challenging experience, requiring players to quickly assess and compare the attributes of multiple cards to find valid sets. Set is known for its addictive gameplay, providing endless opportunities for players to hone their observation skills and strategic thinking while enjoying friendly competition with family and friends.
 
 ## Features
 
@@ -25,4 +35,10 @@ This repository provides a solution for automating the solving process of the po
 ## How to Run
 
 Ensure you have [OpenCV](https://opencv.org/) installed in your Python environment. Run the provided Jupyter Notebook file (`Set_Game_Solver.ipynb`) in your preferred Python environment. Adjust parameters and thresholds as needed for optimal performance.
+
+## Key Visuals 
+![image](https://github.com/manvendra-nema/SetGameVisionSolver/assets/53614640/d4f8b44d-8474-44f1-8b01-19797c3cf67f)![image](https://github.com/manvendra-nema/SetGameVisionSolver/assets/53614640/1c67f251-6d08-49b6-aa34-313aeea3224a)
+
+ <img src="https://github.com/manvendra-nema/SetGameVisionSolver/assets/53614640/5bebc039-1a2d-44e7-bc25-74ce440359ba" width="250" height="250">
+ <img src="https://github.com/manvendra-nema/SetGameVisionSolver/assets/53614640/24f830c4-1bd7-4b7f-b6d4-448adcc45e56" width="250" height="250">
 
