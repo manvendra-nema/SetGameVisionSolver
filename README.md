@@ -34,7 +34,7 @@ The game offers a dynamic and challenging experience, requiring players to quick
 
 ## How to Run
 
-Ensure you have [OpenCV](https://opencv.org/) installed in your Python environment. Run the provided Jupyter Notebook file (`Set_Game_Solver.ipynb`) in your preferred Python environment. Adjust parameters and thresholds as needed for optimal performance.
+Ensure you have [OpenCV](https://opencv.org/) installed in your Python environment. Run the provided Jupyter Notebook file (`Set_Game_Solver.ipynb`) in your preferred Python environment. Adjust parameters and thresholds as needed for optimal performance. Change path to MASK File.
 
 ## Key Visuals 
 ![image](https://github.com/manvendra-nema/SetGameVisionSolver/assets/53614640/d4f8b44d-8474-44f1-8b01-19797c3cf67f)![image](https://github.com/manvendra-nema/SetGameVisionSolver/assets/53614640/1c67f251-6d08-49b6-aa34-313aeea3224a)
