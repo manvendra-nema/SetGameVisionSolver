@@ -3,7 +3,7 @@
 
 # Set Game Solver using Classical Computer Vision
 
-This repository provides a solution for automating the solving process of the popular card game Set using classical computer vision techniques.
+This repository provides a solution for automating the solving process of the popular card game Set using classical computer vision techniques .
 ![image](https://github.com/manvendra-nema/SetGameVisionSolver/assets/53614640/7010174d-a2d4-4542-bc76-9084e057e3ae)
 
 ## Description of Set Game:
